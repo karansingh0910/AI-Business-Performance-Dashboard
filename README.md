@@ -1,25 +1,42 @@
 # AI-Powered Business Performance Analysis & Decision Support Dashboard
+
 ## Description
-Employee Management Database System created using MySQL.  
-This project demonstrates database design and SQL operations.
+AI-powered analytics dashboard designed to analyze business data, track performance metrics, and support data-driven decision making.
+
+This project uses SQL for data management, Excel for data processing, Power BI for visualization, and AI Analytics concepts to generate meaningful business insights.
+
+## Features
+- Business Performance Analysis
+- Interactive Dashboard Visualization
+- Data Cleaning & Processing
+- Sales and Performance Insights
+- KPI Tracking
+- Data-Driven Decision Support
+
+## Technologies Used
+- SQL
+- MySQL
+- Excel
+- Power BI
+- AI Analytics
+- Data Visualization
 
 ## SQL Concepts Used
-- Create Database & Tables
-- Insert, Update, Delete
-- Select Queries
-- Where Clause
-- Joins (INNER JOIN, LEFT JOIN, RIGHT JOIN)
-- Primary Key & Foreign Key
-- Subqueries
-- Views
-- Indexes
+- Database Design
+- Tables & Relationships
+- Joins
 - Aggregate Functions
 - Group By & Having
-- CASE Statement
+- CASE Statements
+- Views
+- Indexing
 
-## Technology Used
-- MySQL
-- MySQL Workbench
+## Project Workflow
+1. Data Collection
+2. Data Cleaning using Excel
+3. Database Management using SQL
+4. Dashboard Creation using Power BI
+5. Business Insights & Decision Support
 
 ## Author
 Karan Singh
