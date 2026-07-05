@@ -1,5 +1,4 @@
-# SQL Employee Management System
-
+# AI-Powered Business Performance Analysis & Decision Support Dashboard
 ## Description
 Employee Management Database System created using MySQL.  
 This project demonstrates database design and SQL operations.
